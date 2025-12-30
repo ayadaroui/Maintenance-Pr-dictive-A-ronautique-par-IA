@@ -11,7 +11,7 @@ Ce projet exploite des données de capteurs de moteurs afin de prédire le Remai
 - **scikit-learn** 
 
 
-## Étapes du projet
+### Étapes du projet
 
 1. **Chargement des données** : Les données des moteurs (`train_FD001.txt`) sont chargées et prétraitées.
 2. **Calcul du RUL** : $RUL = \text{cycle maximal du moteur} - \text{cycle courant}$.
@@ -25,3 +25,8 @@ Ce projet exploite des données de capteurs de moteurs afin de prédire le Remai
     - Régression Linéaire.
     - Random Forest Regressor.
 6. **Évaluation** : RMSE (Root Mean Square Error) sur l'ensemble de validation pour comparer les modèles.
+
+#### Résultats 
+- **RMSE Régression Linéaire :** 30.96
+- - **RMSE Random Forest :** 26.24
+ 
