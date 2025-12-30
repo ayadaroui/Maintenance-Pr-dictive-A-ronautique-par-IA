@@ -4,8 +4,8 @@ Ce projet exploite des données de capteurs de moteurs afin de prédire le Remai
 
 ## Librairies utilisées
 
-- [cite_start]**pandas** 
-- [cite_start]**numpy** 
-- [cite_start]**matplotlib** 
-- [cite_start]**seaborn** 
-- [cite_start]**scikit-learn** 
+- **pandas** 
+- **numpy** 
+- **matplotlib** 
+- **seaborn** 
+- **scikit-learn** 
