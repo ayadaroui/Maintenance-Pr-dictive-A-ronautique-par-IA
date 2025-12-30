@@ -27,6 +27,7 @@ Ce projet exploite des données de capteurs de moteurs afin de prédire le Remai
 6. **Évaluation** : RMSE (Root Mean Square Error) sur l'ensemble de validation pour comparer les modèles.
 
 #### Résultats 
+
 - **RMSE Régression Linéaire :** 30.96
-- - **RMSE Random Forest :** 26.24
+-  **RMSE Random Forest :** 26.24
  
